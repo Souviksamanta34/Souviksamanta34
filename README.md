@@ -11,7 +11,7 @@
 
 - 💬 Ask me about *Android Studio, Kotlin*
 
-- 📫 How to reach me *souviksamanta34@gmail.com*
+- 📫 How to reach me *souviksamanta059@gmail.com*
 
 - ⚡ Fun fact *I am the 1 for the 0*
 
