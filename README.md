@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Souvik Samanta</h1>
 <h3 align="center">A passionate developer and a constant learner</h3>
 
-- 🚀 Visit My Website [http://souviksamanta.tech/](http://souviksamanta.tech/)
+- 🚀 Visit My Website [http://souviksamanta.tech](http://souviksamanta.tech)
 
 - 🔭 I’m currently working on *Chessbase App*
 
