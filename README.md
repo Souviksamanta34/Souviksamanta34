@@ -1,44 +1,81 @@
-<h1 align="center">Hi 👋, I'm Souvik Samanta</h1>
-<h3 align="center">A passionate developer and a constant learner</h3>
+<h1 align="center">Souvik Samanta</h1>
+<p align="center"><strong>System Engineer at Tata Consultancy Services</strong><br>Agentic AI · Document Intelligence · Cloud Engineering</p>
 
-- 🚀 Visit My Website [http://souviksamanta.tech](http://souviksamanta.tech)
-
-- 🔭 I’m currently working on *Chessbase App*
-
-- 🌱 I’m currently learning *React Native*
-
-- 📝 I regularly write articles on [https://medium.com/@souviksamanta34](https://medium.com/@souviksamanta34)
-
-- 💬 Ask me about *Android Studio, Kotlin*
-
-- 📫 How to reach me *souviksamanta059@gmail.com*
-
-- ⚡ Fun fact *I am the 1 for the 0*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/souvik-samanta-the-styleful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="souvik-samanta-the-styleful" height="30" width="40" /></a>
-<a href="https://dev.to/souviksamanta34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="souviksamanta34" height="30" width="40" /></a>
-<a href="https://twitter.com/souviksamanta34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="souviksamanta34" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/souviksamanta34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souviksamanta34" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/souvik-samanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="souvik-samanta" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/souviksamanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="souviksamanta34" height="30" width="40" /></a>
-<a href="https://kaggle.com/souviksamanta34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="souviksamanta34" height="30" width="40" /></a>
-<a href="https://instagram.com/souviksamanta34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="souviksamanta34" height="30" width="40" /></a>
-<a href="https://hashnode.com/@souviksamanta059" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@souviksamanta" height="30" width="40" /></a>
-<a href="https://medium.com/@souviksamanta34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@souviksamanta34" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/souvik34" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="souvik34" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/souviksamanta34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="souviksamanta34" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/souviksamanta34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="souviksamanta34" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/souviksamanta34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="souviksamanta34" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@souviksamanta34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@souviksamanta34" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/souviksamanta/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="souviksamanta/profile" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/souviksamanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="souviksamanta" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/souviksamanta34/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://souviksamanta.tech">Portfolio</a> &nbsp;·&nbsp;
+  <a href="mailto:souviksamanta059@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://medium.com/@souviksamanta34">Writing</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## About
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souviksamanta34&show_icons=true&locale=en&layout=compact" alt="souviksamanta34" /></p>
+I build AI applications that connect language models with enterprise data, developer tools, and human review. At **Tata Consultancy Services**, my work spans agentic incident investigation, code remediation, and financial document intelligence across Google Cloud and Azure.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souviksamanta34&show_icons=true&locale=en" alt="souviksamanta34" /></p>
+My approach emphasizes evidence-grounded outputs, controlled tool access, and validation throughout the workflow. My background also includes data engineering, full-stack applications, and machine learning.
+
+## Engineering Focus
+
+- **Agentic AI:** Multi-agent workflows for incident investigation and code remediation, using Google ADK, Vertex AI, Gemini, and Python.
+- **Document intelligence:** Extraction and validation of financial statements using Azure Document Intelligence and Azure OpenAI, including multilingual and multi-page documents.
+- **Cloud engineering:** Integration of AI services, APIs, identity, observability, and private connectivity.
+- **Responsible implementation:** Human review, PII sanitization, prompt-injection protection, and sandboxed tool execution.
+
+## Experience
+
+**Tata Consultancy Services · System Engineer**  
+November 2024 – Present
+
+- Developed an incident-to-pull-request workflow that connects production log analysis with repository investigation, code changes, and human review.
+- Built financial document processing workflows for extracting tables, metadata, and relationships from unstructured PDFs, with automated quality checks and human validation.
+
+**Celebal Technologies · Data Engineering Intern**  
+May 2023 – July 2023
+
+- Built API-to-data-lake ingestion workflows with Azure Data Factory and Azure Data Lake Storage.
+- Developed Apache Spark transformations for data preparation and retrieval.
+
+## Technical Toolkit
+
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, C++, Java, JavaScript |
+| AI & orchestration | LLMs, RAG, Multi-Agent Systems, Google ADK, LangChain, LangGraph |
+| Google Cloud | GCP, Vertex AI, Gemini, Cloud Logging |
+| Microsoft Azure | Azure OpenAI, Document Intelligence, Data Factory, Data Lake Storage |
+| Data & engineering | Apache Spark, Databricks, REST APIs, Git, GitHub, Docker, Kubernetes |
+| Web development | React, Node.js, Express, MongoDB |
+
+## Selected Public Work
+
+### [Breast Cancer Classification](https://github.com/Souviksamanta34/Breast_Cancer_Classification_Using_NN)
+A Python and TensorFlow project exploring neural-network classification of breast cancer data.
+
+### [Developer Portfolio](https://github.com/Souviksamanta34/Portfolio)
+A React-based portfolio bringing together my projects, technical interests, and professional background.
+
+### [Problem Solving](https://github.com/Souviksamanta34/LeetCode)
+A collection of coding practice solutions.
+
+## Recognition
+
+- **Winner** — TCS AI Hackathon
+- **Top 10** — TCS Google Hackathon 2026; presented the solution to Google
+- **3rd Place** — TCS CMI Unit CodeMaster Contest
+- **3rd Place** — ACM India East Bachelor Dissertation Award 2024
+- Selected for **Amazon ML Summer School 2023**
+
+## Education & Certifications
+
+**B.Tech in Computer Science and Engineering**  
+Techno Main Salt Lake · 2020–2024 · CGPA: **8.82/10**
+
+- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=AFDEC96C91905D52DD404C7C661CEB405D952BCC039E6C96A37B671DA917BE1D)
+- [Programming, Data Structures and Algorithms Using Python](https://drive.google.com/file/d/1wb9oQ-igJLVmY2QgH31RvODKIsZMBag9/view?usp=sharing) — NPTEL, IIT Madras
+
+## Connect
+
+I'm interested in conversations about agentic systems, document intelligence, and practical AI engineering.
+
+[LinkedIn](https://www.linkedin.com/in/souviksamanta34/) · [Email](mailto:souviksamanta059@gmail.com) · [Medium](https://medium.com/@souviksamanta34)
+
