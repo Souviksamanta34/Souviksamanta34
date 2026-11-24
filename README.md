@@ -1,9 +1,9 @@
 <h1 align="center">Souvik Samanta</h1>
-<p align="center"><strong>System Engineer at Tata Consultancy Services</strong><br>Agentic AI · Document Intelligence · Cloud Engineering</p>
+<p align="center"><strong>System Engineer at Tata Consultancy Services</strong><br>Applied AI Engineering · Agentic AI · Document Intelligence</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/souviksamanta34/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://souviksamanta.tech">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://souviksamanta.vercel.app">Portfolio</a> &nbsp;·&nbsp;
   <a href="mailto:souviksamanta059@gmail.com">Email</a> &nbsp;·&nbsp;
   <a href="https://medium.com/@souviksamanta34">Writing</a>
 </p>
@@ -46,7 +46,9 @@ May 2023 – July 2023
 | Data & engineering | Apache Spark, Databricks, REST APIs, Git, GitHub, Docker, Kubernetes |
 | Web development | React, Node.js, Express, MongoDB |
 
-## Selected Public Work
+## Portfolio & Selected Public Work
+
+[View my professional portfolio](https://souviksamanta.vercel.app) for AI engineering case studies, certifications, and a downloadable résumé. Employer work is summarized at a non-confidential level; proprietary source code and client data are not published.
 
 ### [Breast Cancer Classification](https://github.com/Souviksamanta34/Breast_Cancer_Classification_Using_NN)
 A Python and TensorFlow project exploring neural-network classification of breast cancer data.
@@ -70,6 +72,11 @@ A collection of coding practice solutions.
 **B.Tech in Computer Science and Engineering**  
 Techno Main Salt Lake · 2020–2024 · CGPA: **8.82/10**
 
+- [Claude Certified Developer — Professional](https://www.credly.com/badges/c44057b2-1d3d-4951-9a51-d14a86e87206/public_url)
+- [Claude Certified Architect — Professional](https://www.credly.com/badges/a5bf612c-e02d-4825-bba5-c2468a6919a1/public_url)
+- [Databricks Certified Machine Learning Professional](https://credentials.databricks.com/fc23dd31-d344-460c-82e7-9a1fb4f11a5f)
+- [Databricks Certified Data Engineer Professional](https://credentials.databricks.com/5c925d85-b7e9-4c2b-90c9-6ef09d9e53bc)
+- [AWS Certified Developer — Associate](https://www.credly.com/badges/f0ebfa5c-bece-472c-b0e6-d32a07b2bb13/public_url)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=AFDEC96C91905D52DD404C7C661CEB405D952BCC039E6C96A37B671DA917BE1D)
 - [Programming, Data Structures and Algorithms Using Python](https://drive.google.com/file/d/1wb9oQ-igJLVmY2QgH31RvODKIsZMBag9/view?usp=sharing) — NPTEL, IIT Madras
 
